@@ -1,14 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keep Cold</title>
+    <title>Colden</title>
     <description>devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Feb 2024 13:41:56 +0900</pubDate>
-    <lastBuildDate>Tue, 20 Feb 2024 13:41:56 +0900</lastBuildDate>
+    <pubDate>Tue, 20 Feb 2024 15:37:06 +0900</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:37:06 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
 
+    
+      <item>
+        <title>2023년_4분기_시청_영화_리뷰</title>
+        <description>&lt;p&gt;해당 영화리뷰는 본 시간 순서대로 진행됩니다.&lt;br /&gt;
+만점은 5점으로 블로그 주인의 주관적인 평가가 매우 심하므로 양해바랍니다.&lt;br /&gt;&lt;/p&gt;
+&lt;h1&gt;1. 독전2 &lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./독전2.jpeg&quot; alt=&quot;독전2&quot; /&gt;&amp;lt;/img&amp;gt;&lt;br /&gt;
+평점 : 2/5&lt;br /&gt;
+리뷰 : 결국 죄를 지은 사람은 다 벌을 받는다? 무슨 메시지를 보내려는지도 모르겠고 스토리는 이상하게 흩뜨려놓고 제대로 주워담지도 못해서 혼란스러웠던 영화
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1&gt;2. 죽은 시인의 사회&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./죽은시인의사회.jpeg&quot; alt=&quot;죽은시인의사회&quot; /&gt;&amp;lt;/img&amp;gt;&lt;br /&gt;
+평점 : 5/5&lt;br /&gt;
+리뷰 : “진실은 발을 차갑게 하는 이불 같은 것입니다. 잡아당겨도 늘여뜨려도 이불은 부족합니다. 무슨 수를 써도 그 이불은 우릴 덮어주지 못합니다. 울면서 태어난 날부터 죽음으로 떠나는 날까지. 울고 절규하고 신음하는 우리의 얼굴만을 덮을 겁니다.” 극 중 로버트 숀 레오나드의 대사&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1&gt;3. 스파이더맨 3&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./스파이더맨3.jpeg&quot; alt=&quot;스파이더맨3&quot; /&gt;&amp;lt;/img&amp;gt;&lt;br /&gt;
+평점 : 4.5/5&lt;br /&gt;
+리뷰 : 개인적으로 스파이더맨 시리즈중 액션으로 제일 볼 만 했음. 찐따미가 너무 심했던 1,2편과 달리 흑화해서 오히려 재밌었던 영화&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1&gt;4. 오펜하이머 &lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./오펜하이머.jpeg&quot; alt=&quot;오펜하이머&quot; /&gt;&amp;lt;/img&amp;gt;&lt;br /&gt;
+평점 : 4/5&lt;br /&gt;
+리뷰 : 한 과학자의 전기를 이렇게 긴장되고 몰입되게 만들 수 있을까. 다만 아쉬웠던 건 3시간동안 몰아치는 음향효과가 사람을 매우 피로하게 만들었다. 이것또한 의도한게 아닐지..&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1&gt;5. 스파이더맨 2&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./스파이더맨2.jpeg&quot; alt=&quot;스파이더맨&quot; /&gt;&amp;lt;/img&amp;gt;&amp;lt;br/&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;평점 : 3/5&lt;br /&gt;
+리뷰 : 그냥 로맨스로 제일 볼만했음&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1&gt;6. 비포 미드나잇&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./비포미드나잇.jpeg&quot; alt=&quot;비포미드나잇&quot; /&gt;&amp;lt;/img&amp;gt;&lt;br /&gt;
+평점 : 4.5/5&lt;br /&gt;
+리뷰 : 영원은 하루하루의 노력으로 만들어지는 것. 비포 시리즈 중 가장 현실적이면서 영화같은 영화&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1&gt;7. 서울의 봄&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./서울의봄.jpeg&quot; alt=&quot;서울의봄&quot; /&gt;&amp;lt;/img&amp;gt;&lt;br /&gt;
+평점 : 3.5/5&lt;br /&gt;
+리뷰 : - &lt;br /&gt;&lt;/p&gt;
+
+&lt;h1&gt;8. 월플라워&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./월플라워.jpeg&quot; alt=&quot;월플라워&quot; /&gt;&amp;lt;/img&amp;gt;&lt;br /&gt;
+평점 : 3.5/5&lt;br /&gt;
+리뷰 : 내 십대가 초라해질만큼 아름다운 청춘영화&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1&gt;9. 그녀&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./그녀.jpeg&quot; alt=&quot;그녀&quot; /&gt;&amp;lt;/img&amp;gt;&lt;br /&gt;
+평점 : 4/5&lt;br /&gt;
+리뷰 : 사랑의 따뜻함보다는 외로움을 더 증폭시켜주는거 같은 영화&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;많이도 봤네..&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Feb 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2024/02/20/2023%EB%85%84_4%EB%B6%84%EA%B8%B0_%EC%8B%9C%EC%B2%AD_%EC%98%81%ED%99%94_%EB%A6%AC%EB%B7%B0/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/02/20/2023%EB%85%84_4%EB%B6%84%EA%B8%B0_%EC%8B%9C%EC%B2%AD_%EC%98%81%ED%99%94_%EB%A6%AC%EB%B7%B0/</guid>
+      </item>
     
       <item>
         <title>Adding Multiple Categories in Posts</title>
@@ -626,22 +686,6 @@ You can visit the blog using [http://your-github-username.github.io](http://your
     
       
     
-      
-    
-      
-        
-          <item>
-            <title>Guides</title>
-            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-{% for post in site.categories.sample_category %}
- &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
-{% endfor %}
-&lt;/div&gt;</description>
-            <link>http://localhost:4000/blog/categories/sample_category/</link>
-          </item>
-        
       
     
       
