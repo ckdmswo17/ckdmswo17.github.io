@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Guides
 permalink: /blog/categories/sample_category/
