@@ -5,8 +5,8 @@
     <description>devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Mar 2024 23:56:43 +0900</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2024 23:56:43 +0900</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2024 00:28:42 +0900</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2024 00:28:42 +0900</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
 
     
@@ -16,9 +16,13 @@
 
 &lt;p&gt;Python을 이용해 데이터셋을 생성하는 방법은 설명하지 않습니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./vertexAI.jpeg&quot; alt=&quot;Vertex AI 이미지&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://console.cloud.google.com/vertex-ai?hl=ko&amp;amp;project=coastal-mesh-414403&quot;&gt;Vertex AI 사이트&lt;/a&gt;&lt;/p&gt;
+![vertexAI](https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/a1d412e4-7e6c-4267-a93f-d1ae7d7dd4e6)
+
+[Vertex AI 사이트](https://console.cloud.google.com/vertex-ai?hl=ko&amp;amp;project=coastal-mesh-414403)
+
+&lt;/center&gt;
 
 &lt;h2 id=&quot;1-무료로-체험-시작&quot;&gt;1. 무료로 체험 시작&lt;/h2&gt;
 
@@ -28,9 +32,9 @@
 
 &lt;p&gt;콘솔 상단에 파란 “무료로 체험하기” 버튼을 누르고 정보를 등록해야합니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./정보등록1.PNG&quot; alt=&quot;Vertex AI 정보등록1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;633&quot; alt=&quot;정보등록1&quot; src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/016cc398-5d87-400f-98e0-13d830ed97bd&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./정보등록2.PNG&quot; alt=&quot;Vertex AI 정보등록2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/f3fda072-f04d-4a98-90b5-c109c9e8992f&quot; alt=&quot;정보등록2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;해당 내용들은 모두 작성해주시고 계속하기 버튼을 누릅니다.&lt;/p&gt;
 
@@ -38,15 +42,15 @@
 
 &lt;p&gt;홈 화면에서 좌측 바의 “데이터 세트” 탭을 클릭하고 상단의 “만들기” 버튼을 클릭합니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./데이터셋만들기.PNG&quot; alt=&quot;Vertex AI 데이터셋생성&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/2ac2b7ae-86fb-4e7b-8016-d7e4952110dd&quot; alt=&quot;데이터셋만들기&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;다음으로는 데이터 유형을 선택합니다. 저는 채널코딩 데이터프레임 데이터셋을 분류하기위해 분류/회귀를 선택했습니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./데이터셋결정.PNG&quot; alt=&quot;Vertex AI 데이터셋결정&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/cdb17354-d512-4417-aa97-a47b681b2cc6&quot; alt=&quot;데이터셋결정&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;다음으로 데이터셋 파일을 직접 업로드합니다. 사진 오른쪽의 요구사항을 고려해서 CSV 파일을 업로드하면 됩니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./데이터파일추가.PNG&quot; alt=&quot;Vertex AI 데이터셋결정&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/b4e828be-151f-4755-863d-1ac1d86a332a&quot; alt=&quot;데이터파일추가&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;업로드하고 나면 데이터셋 등록이 완료되고, 우측의 “새 모델 학습 - 기타” 버튼을 클릭하면 바로 학습까지 진행할 수 있습니다.&lt;/p&gt;
 
@@ -62,17 +66,18 @@
   &lt;li&gt;컴퓨팅 및 가격 책정 : 예산 1시간, 조기 중단 사용 설정 체크&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;./수동분할가이드.PNG&quot; alt=&quot;Vertex AI 수동분할가이드&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;471&quot; alt=&quot;수동분할가이드&quot; src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/a8d4099d-ad50-4970-a4c1-0aed7fbdc9f0&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./훈련설정.PNG&quot; alt=&quot;Vertex AI 훈련설정&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;612&quot; alt=&quot;훈련설정&quot; src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/147eb9ad-17bd-4c8e-acfe-87262279b6f9&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;모든 설정을 끝내면 학습 파이프라인이 생성이 되고, 2시간 정도 기다리시면 학습이 완료가 됩니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./학습파이프라인.PNG&quot; alt=&quot;Vertex AI 학습파이프라인&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;img width=&quot;283&quot; alt=&quot;학습파이프라인&quot; src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/0acdbbb3-6fda-4570-b11b-a1e55906e6fb&quot; /&gt;&lt;/center&gt;
 
 &lt;p&gt;학습이 완료되고 파이프라인을 클릭하면 라벨별 정확도, 혼동행렬, 특성 중요도 등 다양한 정보를 확인가능합니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./학습완료.PNG&quot; alt=&quot;Vertex AI 학습완료&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/8a57e278-6b3c-4823-a862-f736cdf49698&quot; alt=&quot;학습완료&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;4-일괄-예측&quot;&gt;4. 일괄 예측&lt;/h2&gt;
 
@@ -80,24 +85,24 @@
 
 &lt;p&gt;예측 결과 파일은 사용자 당 할당된 구글 클라우드 안에 CSV 파일로 저장됩니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./일괄예측.PNG&quot; alt=&quot;Vertex AI 일괄예측&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;526&quot; alt=&quot;일괄예측&quot; src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/f2648c1e-f2b5-4971-8a36-ea7f9aca2acf&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;5-온라인-예측--모델-다운로드&quot;&gt;5. 온라인 예측 &amp;amp; 모델 다운로드&lt;/h2&gt;
 
 &lt;p&gt;홈페이지에서 바로 예측과 모델을 로컬에 다운로드 받으려면 엔드포인트 배포를 먼저 진행해야합니다.
 배포 및 테스트 탭에서 “엔드포인트 배포” 버튼을 클릭한 후 학습 설정때 했던 것 처럼 엔드포인트 이름과 학습 데이터와 타겟 열만 설정해주면 됩니다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;배포및테스트.PNG&quot; alt=&quot;배포및테스트&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/c70b1069-5856-4bfc-a27b-e9c4b3c37dfd&quot; alt=&quot;배포및테스트&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;바로 특성 값 넣어서 타겟을 예측 가능&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;모델테스트.PNG&quot; alt=&quot;모델테스트&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;526&quot; alt=&quot;일괄예측&quot; src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/f2648c1e-f2b5-4971-8a36-ea7f9aca2acf&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;모델 파일을 해당 명령어를 사용해서 로컬로 다운로드까지 가능.&lt;/p&gt;
 
 &lt;p&gt;하지만, 암호화되어있는 pb 파일이라 그런지, neutron이나 파이썬 saved_model_cli 커맨드를 사용해도 자세한 구조는 확인이 불가능했음. 방법 아시는 분들은 댓글이나 메일 좀 보내주세요..ㅎ&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;모델내보내기.PNG&quot; alt=&quot;모델내보내기&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/84fc54e2-6dd5-48b6-99cf-515c54f6056c&quot; alt=&quot;모델내보내기&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Mar 2024 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/2024/03/09/Google-Cloud-Platform%EC%9D%98-Vertex-AI-%EC%82%AC%EC%9A%A9%EB%B2%95/</link>
@@ -107,51 +112,62 @@
       <item>
         <title>2023년_4분기_시청_영화_리뷰</title>
         <description>&lt;p&gt;해당 영화리뷰는 본 시간 순서대로 진행됩니다.&lt;br /&gt;
-만점은 5점으로 블로그 주인의 주관적인 평가가 매우 심하므로 양해바랍니다.&lt;br /&gt;&lt;/p&gt;
+만점은 5점으로 블로그 주인의 주관적인 평가가 매우 심하므로 양해바랍니다.&lt;/p&gt;
 
-&lt;h1&gt;1. 독전2 &lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./독전2.jpeg&quot; alt=&quot;독전2&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&amp;lt;/hr&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;독전-2&quot;&gt;독전 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/3627fcfd-bed5-476d-9e50-754577c77b42&quot; alt=&quot;독전2&quot; /&gt;
 평점 : 2/5&lt;br /&gt;
 리뷰 : 결국 죄를 지은 사람은 다 벌을 받는다? 무슨 메시지를 보내려는지도 모르겠고 스토리는 이상하게 흩뜨려놓고 제대로 주워담지도 못해서 혼란스러웠던 영화
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h1&gt;2. 죽은 시인의 사회&lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./죽은시인의사회.jpeg&quot; alt=&quot;죽은시인의사회&quot; /&gt;&lt;br /&gt;
-평점 : 5/5&lt;br /&gt;
-리뷰 : “진실은 발을 차갑게 하는 이불 같은 것입니다. 잡아당겨도 늘여뜨려도 이불은 부족합니다. 무슨 수를 써도 그 이불은 우릴 덮어주지 못합니다. 울면서 태어난 날부터 죽음으로 떠나는 날까지. 울고 절규하고 신음하는 우리의 얼굴만을 덮을 겁니다.” 극 중 로버트 숀 레오나드의 대사&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;죽은-시인의-사회&quot;&gt;죽은 시인의 사회&lt;/h2&gt;
 
-&lt;h1&gt;3. 스파이더맨 3&lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./스파이더맨3.jpeg&quot; alt=&quot;스파이더맨3&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/ce83c4ea-4d9d-4ac6-afdf-87e87f60fbcf&quot; alt=&quot;죽은시인의사회&quot; /&gt;
+평점 : 5/5&lt;br /&gt;
+리뷰 : “진실은 발을 차갑게 하는 이불 같은 것입니다. 잡아당겨도 늘여뜨려도 이불은 부족합니다. 무슨 수를 써도 그 이불은 우릴 덮어주지 못합니다. 울면서 태어난 날부터 죽음으로 떠나는 날까지. 울고 절규하고 신음하는 우리의 얼굴만을 덮을 겁니다.” 내가 제일 인상깊었던 극 중 로버트 숀 레오나드의 대사&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;스파이더맨-3&quot;&gt;스파이더맨 3&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/49f02b31-ccff-4605-8196-1f2f2368026a&quot; alt=&quot;스파이더맨3&quot; /&gt;
 평점 : 4.5/5&lt;br /&gt;
 리뷰 : 개인적으로 스파이더맨 시리즈중 액션으로 제일 볼 만 했음. 찐따미가 너무 심했던 1,2편과 달리 흑화해서 오히려 재밌었던 영화&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1&gt;4. 오펜하이머 &lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./오펜하이머.jpeg&quot; alt=&quot;오펜하이머&quot; /&gt;&lt;br /&gt;
+&lt;h2 id=&quot;오펜하이머&quot;&gt;오펜하이머&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/8e199831-fe37-4836-9d66-f3857dc9b259&quot; alt=&quot;오펜하이머&quot; /&gt;
 평점 : 4/5&lt;br /&gt;
 리뷰 : 한 과학자의 전기를 이렇게 긴장되고 몰입되게 만들 수 있을까. 다만 아쉬웠던 건 3시간동안 몰아치는 음향효과가 사람을 매우 피로하게 만들었다. 이것또한 의도한게 아닐지..&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1&gt;5. 스파이더맨 2&lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./스파이더맨2.jpeg&quot; alt=&quot;스파이더맨&quot; /&gt;&lt;br /&gt;
+&lt;h2 id=&quot;스파이더맨-2&quot;&gt;스파이더맨 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/46eebd4c-3022-46c3-b6d0-0fdc10f4c711&quot; alt=&quot;스파이더맨2&quot; /&gt;
 평점 : 3/5&lt;br /&gt;
 리뷰 : 그냥 로맨스로 제일 볼만했음&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1&gt;6. 비포 미드나잇&lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./비포미드나잇.jpeg&quot; alt=&quot;비포미드나잇&quot; /&gt;&lt;br /&gt;
+&lt;h2 id=&quot;비포-미드나잇&quot;&gt;비포 미드나잇&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/72494a85-0aff-4e5c-af26-3450372edf76&quot; alt=&quot;비포미드나잇&quot; /&gt;
 평점 : 4.5/5&lt;br /&gt;
 리뷰 : 영원은 하루하루의 노력으로 만들어지는 것. 비포 시리즈 중 가장 현실적이면서 영화같은 영화&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1&gt;7. 서울의 봄&lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./서울의봄.jpeg&quot; alt=&quot;서울의봄&quot; /&gt;&lt;br /&gt;
+&lt;h2 id=&quot;서울의-봄&quot;&gt;서울의 봄&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/f9d2bea3-6870-473d-a4b7-8c8b2f016ae9&quot; alt=&quot;서울의봄&quot; /&gt;
 평점 : 3.5/5&lt;br /&gt;
 리뷰 : - &lt;br /&gt;&lt;/p&gt;
 
-&lt;h1&gt;8. 월플라워&lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./월플라워.jpeg&quot; alt=&quot;월플라워&quot; /&gt;&lt;br /&gt;
+&lt;h2 id=&quot;월플라워&quot;&gt;월플라워&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/ec8fac55-bffe-4f50-985c-2482c2b824fd&quot; alt=&quot;월플라워&quot; /&gt;
 평점 : 3.5/5&lt;br /&gt;
 리뷰 : 내 십대가 초라해질만큼 아름다운 청춘영화&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1&gt;9. 그녀&lt;/h1&gt;
-&lt;p&gt;&lt;img height=&quot;300px&quot; width=&quot;400px&quot; src=&quot;./그녀.jpeg&quot; alt=&quot;그녀&quot; /&gt;&lt;br /&gt;
+&lt;h2 id=&quot;그녀&quot;&gt;그녀&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/0fb299f5-b1c4-4d8e-9f92-3d19d0e8c992&quot; alt=&quot;그녀&quot; /&gt;
 평점 : 4/5&lt;br /&gt;
 리뷰 : 사랑의 따뜻함보다는 외로움을 더 증폭시켜주는거 같은 영화&lt;br /&gt;&lt;/p&gt;
 
