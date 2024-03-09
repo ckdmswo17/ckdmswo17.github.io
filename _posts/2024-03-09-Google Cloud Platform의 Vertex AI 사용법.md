@@ -2,13 +2,9 @@
 
 Python을 이용해 데이터셋을 생성하는 방법은 설명하지 않습니다.
 
-<center>
-
 ![vertexAI](https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/a1d412e4-7e6c-4267-a93f-d1ae7d7dd4e6)
 
 [Vertex AI 사이트](https://console.cloud.google.com/vertex-ai?hl=ko&project=coastal-mesh-414403)
-
-</center>
 
 ## 1. 무료로 체험 시작
 
@@ -56,8 +52,7 @@ Google Cloud Platform은 클라우드 사용량, gpu 사용량에 따라 요금�
 
 모든 설정을 끝내면 학습 파이프라인이 생성이 되고, 2시간 정도 기다리시면 학습이 완료가 됩니다.
 
-<center>
-<img width="283" alt="학습파이프라인" src="https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/0acdbbb3-6fda-4570-b11b-a1e55906e6fb"></center>
+<img width="283" alt="학습파이프라인" src="https://github.com/ckdmswo17/ckdmswo17.github.io/assets/71180737/0acdbbb3-6fda-4570-b11b-a1e55906e6fb">
 
 학습이 완료되고 파이프라인을 클릭하면 라벨별 정확도, 혼동행렬, 특성 중요도 등 다양한 정보를 확인가능합니다.
 
